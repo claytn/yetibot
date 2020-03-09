@@ -131,7 +131,7 @@ createdb yetibot
 
 There are a few ways to quickly run a Yetibot:
 
-1. Docker - [read the Yetibot on Docker docs](doc/DOCKER.md)
+1. Docker - [read the Yetibot on Docker docs](DOCKER.md)
 1. Grab an archive of the source from the [Yetibot
    releases](https://github.com/yetibot/yetibot/releases), unzip, put the config
    in place and `lein run`
